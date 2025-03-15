@@ -1,2 +1,0 @@
-Materiale Film/estraiPoster.py
-Materiale Film/MovieGenre.csv
